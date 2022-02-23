@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+ 
+   //printf funtion allows  you to display the text between the double quotes.
+   printf("Hello world");
+   return 0:
+}
